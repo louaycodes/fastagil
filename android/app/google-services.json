@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "952897211693",
+    "project_id": "fast-agil",
+    "storage_bucket": "fast-agil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952897211693:android:580398fb7ea12cd79997a4",
+        "android_client_info": {
+          "package_name": "com.mycompany.fastagil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952897211693-4hlp7kejblu6582vqoosf5ocdh2virvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.fastagil",
+            "certificate_hash": "6cce6745df86f2b7b960a58e247e762f0e6d7c9b"
+          }
+        },
+        {
+          "client_id": "952897211693-q8o4o2dt9q9lklad4oa6gb3c27oa7jf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.fastagil",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "952897211693-i49v4hub04o1qmhof72vh9fd5pia82i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWFW1mIhOM6jZRHPqdMcn0qPz_zDLF32s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952897211693-i49v4hub04o1qmhof72vh9fd5pia82i2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952897211693-kuth66eslmpb53t7m8a1k6kuh5nmebev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.fastagil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
